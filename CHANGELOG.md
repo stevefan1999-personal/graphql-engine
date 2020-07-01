@@ -345,6 +345,7 @@ A new CLI migrations image is introduced to account for the new migrations workf
 - console: fix parsing of wrapped types in SDL (close #4099) (#4167)
 - console: misc actions fixes (#4059)
 - console: action relationship page improvements (fix #4062, #4130) (#4133)
+- console: add code exporter to graphiql (close #4531) #4652
 - cli: fix init command to generate correct config (fix #4036) (#4038)
 - cli: fix parse error returned on console api (close #4126) (#4152)
 - cli: fix typo in cli example for squash (fix #4047) (#4049)
